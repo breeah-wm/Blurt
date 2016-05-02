@@ -137,7 +137,7 @@
             <div class="feed-item">
                 <div class="icon-holder"><div class="icon"></div></div>
                 <div class="text-holder col-3-5">
-                    <div class="feed-title">pantriots</div>
+                    <div class="feed-title">patriots</div>
                     <div class="feed-description">#FreeBrady</div>
                 </div>
                 <div class="post-options-holder">
